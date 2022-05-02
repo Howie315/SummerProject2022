@@ -1,1 +1,1 @@
-# CS 100 Programming Project
+# Summer Project
